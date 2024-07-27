@@ -1,4 +1,4 @@
-import Sidebar from "@/Components/Sidebar";
+import Sidebar from "@/components/Sidebar";
 import { assets } from "@/assets/assets";
 import Image from "next/image";
 import { ToastContainer} from 'react-toastify';
