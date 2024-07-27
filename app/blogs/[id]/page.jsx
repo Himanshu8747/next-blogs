@@ -1,6 +1,6 @@
 'use client';
 
-import Footer from "@/Components/Footer";
+import Footer from "@/components/Footer";
 import { assets } from "@/assets/assets";
 import Image from "next/image";
 import Link from "next/link";
